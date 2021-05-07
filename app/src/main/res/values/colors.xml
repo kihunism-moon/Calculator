@@ -6,8 +6,8 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="buttonGray">#f2f2f2</color>
+    <color name="white">#625988</color>
+    <color name="buttonGray">#5D99AF</color>
     <color name="buttonPressGray">#e2e2e2</color>
     <color name="backgroundWhite">#fcfcfc</color>
     <color name="textColor">#555555</color>
